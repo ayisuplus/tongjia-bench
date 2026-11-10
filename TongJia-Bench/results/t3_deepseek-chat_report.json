@@ -1,0 +1,21 @@
+{
+  "model": "deepseek-chat",
+  "data": "data/pilot/t3_mechanism_attribution.jsonl",
+  "metrics": {
+    "C+": {
+      "acc": 0.9154929577464789,
+      "n": 71
+    },
+    "C-": {
+      "acc": 0.6,
+      "n": 20
+    },
+    "C0": {
+      "acc": 0.8309859154929577,
+      "n": 71
+    },
+    "PTI": 0.9077,
+    "Acc_C0": 0.831,
+    "Acc_C+": 0.9155
+  }
+}

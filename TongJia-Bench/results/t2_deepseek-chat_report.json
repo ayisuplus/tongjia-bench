@@ -1,0 +1,26 @@
+{
+  "model": "deepseek-chat",
+  "data": "data/pilot/t2_pinyin_profile.jsonl",
+  "metrics": {
+    "initials": {
+      "acc": 0.06666666666666667,
+      "n": 15
+    },
+    "mixed_50": {
+      "acc": 1.0,
+      "n": 15
+    },
+    "no_tone": {
+      "acc": 0.92,
+      "n": 25
+    },
+    "tone_mark": {
+      "acc": 1.0,
+      "n": 15
+    },
+    "tone_number": {
+      "acc": 1.0,
+      "n": 15
+    }
+  }
+}

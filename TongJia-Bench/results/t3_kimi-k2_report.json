@@ -1,0 +1,21 @@
+{
+  "model": "kimi-k2-0905-preview",
+  "data": "data/pilot/t3_mechanism_attribution.jsonl",
+  "metrics": {
+    "C+": {
+      "acc": 0.9859154929577465,
+      "n": 71
+    },
+    "C-": {
+      "acc": 0.95,
+      "n": 20
+    },
+    "C0": {
+      "acc": 0.971830985915493,
+      "n": 71
+    },
+    "PTI": 0.9857,
+    "Acc_C0": 0.9718,
+    "Acc_C+": 0.9859
+  }
+}
